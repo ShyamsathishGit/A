@@ -1,1 +1,1 @@
-realse 1
+release 1
